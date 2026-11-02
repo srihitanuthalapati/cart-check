@@ -8,7 +8,7 @@ I shop for clothes across a lot of different stores, both online and in person, 
 
 ## How It Works
 
-Version 1.0 (the MVP) lets me:
+Version 1.0 lets me:
 
 - Add a purchase from the terminal (date, store, item, category, price)
 - Save purchases to a CSV file and load them back when the program starts
